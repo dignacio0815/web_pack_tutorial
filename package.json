@@ -1,0 +1,27 @@
+{
+  "name": "web_pack_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dignacio0815/web_pack_tutorial.git"
+  },
+  "author": "denize ignacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dignacio0815/web_pack_tutorial/issues"
+  },
+  "homepage": "https://github.com/dignacio0815/web_pack_tutorial#readme",
+  "dependencies": {
+    "add": "^2.0.6",
+    "prop-types": "^15.6.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-router-dom": "^4.3.1",
+    "semantic-ui-react": "^0.85.0"
+  }
+}
